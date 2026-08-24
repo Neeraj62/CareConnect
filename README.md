@@ -4,7 +4,7 @@
 
 ### *Your fastest route to the right d octor*
 
-**Connecting You to Care, Instantly** 💙
+**Connecting You to Care, I nstantly** 💙
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
