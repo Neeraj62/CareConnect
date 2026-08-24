@@ -2,7 +2,7 @@
    
 # 🏥 CareConnect  
 
-### *Your fastest route to the right doctor*
+### *Your fastest route to the right d octor*
 
 **Connecting You to Care, Instantly** 💙
 
