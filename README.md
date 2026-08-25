@@ -1,6 +1,6 @@
 <div align="center">
    
-# 🏥 CareConnect  
+# 🏥 CareConnects
 
 ### *Your fastest route to the right d octor*
 
