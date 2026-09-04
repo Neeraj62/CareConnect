@@ -17,7 +17,7 @@
 
 ## 📋 Table of Contents
 
-<table>
+<table>.      
 <tr>
 <td>
 
